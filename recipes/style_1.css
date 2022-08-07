@@ -1,0 +1,13 @@
+* {
+text-align: center;
+font-size: 45px;
+}
+body {
+    background-color: red;
+    color: yellow;
+    font-family: "Kaushan Script", "Times New Roman", sans-serif;
+}
+ul, ol{
+    display:  table;
+    margin: 0 auto;
+}
